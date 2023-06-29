@@ -1,0 +1,7 @@
+Major requirements: 
+- Python 3.8 environment
+- locales wget build-essential gcc g++ bison flex perl qt5-default tcl-dev tk-dev libxml2-dev zlib1g-dev default-jre doxygen graphviz openmpi-bin libopenmpi-dev python3.8 libqt5opengl5-dev libpcap-dev nemiver pip pybind11==2.4.3 keras==1.0.7 theano==0.8.0 numpy matplotlib wandb
+- omnet++ 5.6.1 
+- omnetpy.
+
+Note that datasets are not provided but are public and standarly used by the community. The processing is rather simple and described in the paper. 
