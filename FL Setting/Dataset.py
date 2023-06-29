@@ -1,8 +1,3 @@
-'''
-Updated in October, 2022
-
-@original_author: Xiangnan He (xiangnanhe@gmail.com)
-'''
 import scipy.sparse as sp
 import numpy as np
 import sys
